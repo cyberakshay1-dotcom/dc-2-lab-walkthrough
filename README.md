@@ -119,7 +119,7 @@ cat final-flag.txt
 ---
 
 ## 📷 Screenshots
-The detailed PDF walkthrough is available in this repository.
+The detailed PDF walkthrough is available in this repository.dc-2 lab walkthrough.pdf
 
 ---
 
